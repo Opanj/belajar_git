@@ -1,0 +1,7 @@
+remote ke repository git 
+1. git remote add origin https/ssh : melakukan remote ke github
+2. git remote rm origin : untuk menghapus repository
+3. git remote get-url origin : untuk melihat ssh/https
+4. git push origin namabranch : untuk mengirimkan ke server github
+5. git push origin feature:main : push dari branch feature ke brance main
+6. 

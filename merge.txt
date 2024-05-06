@@ -1,0 +1,5 @@
+Merge merupakan penggabungan branch lain ke branch lain (utama)
+1. git merge namabranch : untuk melakukan penggabungan
+2. git merge --abort : untuk membatalkan penggabungan 
+3. git cherry-pick hash : untuk melakukan merge sebagian dari yang dibutuhkan 
+

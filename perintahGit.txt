@@ -1,0 +1,19 @@
+Perintah-perintah dasar GIT:
+a. ls -l : melihat list jumlah dan nama file 
+1. git init : untuk menginisialisasi project ke dalam repository pertama kali
+2. git status : untuk melihat apakah ada perubahan atau penambahan file yang dilakukan.
+3. git add . : untuk menambahkan file ke repository staging index (sementara)
+4. git commit -m "message" : untuk menahbahkan file ke repo secara permanen
+5. git clean -f : untuk membatalkan perubahan (file yang ditambahkan) di working directory
+6. git restore namefile : untuk membatalkan perubahan di (working) yang telah kitalakukan didalam file dan juga untuk membatalkan penghapusan file 
+7. git restore --staged namefile : untuk membatalkan perubahan distaging index yang sudah dilakukan 
+8. git log : untuk melihat semua riwayat commit yang dilakukan 
+9. git log --oneline : untuk melihat pesan commit beserta hashnya
+10. git show HEAD  : untuk melihat detail commit terakhir 
+11. git reset --soft, --mixs, --hard : untuk melakukan reset pada git
+12. git commit --amend -m "message" : digunakan untuk mereplas (menambah) ulang isi file commit yang sudah dilakukan
+13. git checkout hash --nameFile : untuk melihat perubhan dicommit sebelumnya 
+14. git revert hash : untuk membatalkan commit yang sudah kita lakukan. 
+15. git blame namafile : untuk mengetahui siapa yg melakukan perubhan file dan commit dll
+
+

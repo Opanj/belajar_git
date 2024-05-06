@@ -1,0 +1,4 @@
+# git ignore digunakan untuk tidak up folder atau file tertentu ke repository github
+# log/ : semua isi yang ada didlm folder log di abaikan atau didak ditrack
+# *.backup : semua file yang extension .backup di ignore
+# ignore.txt : untuk tang spesifik file tertentu 

@@ -1,0 +1,7 @@
+
+1. git branch --show--current : untuk melakukan check berada di branch mana saat init
+2. git branch namenewbranch : untuk membuat branch baru 
+3. git branch : untuk melihat ada branch apa saja
+4. git checkout nameBranch : untuk berpindah branch
+5. git branch -m nameBranchbaru : untuk mengubah nama branch (masuk ke branch yang ingin di ubah)
+6. git branch -d nameBranch : untuk menghapus branch (keluar dulu dari branch yang ingin di hapus)
